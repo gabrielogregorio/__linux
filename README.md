@@ -1,3 +1,6 @@
+# Comandos básicos do terminal Linux
+
+```shell
 # Nome do usuário -> logado no ->SO(nome editável)
 gabriel@ubuntu:~$ 
 
@@ -98,15 +101,4 @@ sudo dpkg -i file.deb
 lauchpad ppa
 Adiciona na lista de pacotes
 Combado com um update instala o pacote
-
-
-
-
-
-
-
-
-
-
-
-
+```
